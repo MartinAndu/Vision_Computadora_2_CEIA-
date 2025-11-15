@@ -1,0 +1,13 @@
+Trabajo Práctico Integrador
+Las diapositivas y el código deben contener:
+● Descripción del problema que hay detrás del conjunto de datos.
+● Análisis exploratorio del conjunto de datos.
+● Tarea de visión por computadora a resolver y métricas a utilizar para evaluarla.
+● Uso de Data Augmentation. Porque sí o porque no. Cuales se utilizaron y sus 
+configuraciones.
+● Arquitecturas de modelos a entrenar (al menos 2).
+● Uso de Transfer Learning. Porque sí o porque no. En caso de utilizarlo a partir de que 
+pesos de realizó.
+● Entrenamientos realizados (al menos 4). Hiperparametros utilizados en cada uno.
+● Gráficas de resultados y sus comparaciones.
+● Conclusiones.
